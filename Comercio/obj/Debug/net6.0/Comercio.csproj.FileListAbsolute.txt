@@ -1,0 +1,15 @@
+C:\c#temp\Comercio\Comercio\bin\Debug\net6.0\Comercio.exe
+C:\c#temp\Comercio\Comercio\bin\Debug\net6.0\Comercio.deps.json
+C:\c#temp\Comercio\Comercio\bin\Debug\net6.0\Comercio.runtimeconfig.json
+C:\c#temp\Comercio\Comercio\bin\Debug\net6.0\Comercio.dll
+C:\c#temp\Comercio\Comercio\bin\Debug\net6.0\Comercio.pdb
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.csproj.AssemblyReference.cache
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.AssemblyInfoInputs.cache
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.AssemblyInfo.cs
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.csproj.CoreCompileInputs.cache
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.dll
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\refint\Comercio.dll
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.pdb
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\Comercio.genruntimeconfig.cache
+C:\c#temp\Comercio\Comercio\obj\Debug\net6.0\ref\Comercio.dll
